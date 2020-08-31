@@ -15,5 +15,6 @@ echo 'Hello World';
 console.log("Hello World");
 System.out.println("Hello World");
 ~~~~
+Hahaha! Acho que deu pra entender...
 
-Abraços!
+Forte abraço!
