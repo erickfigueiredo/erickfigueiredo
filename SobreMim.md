@@ -2,7 +2,7 @@
 
 Como você pôde ver no meu perfil, sou um Mineiro que ainda está se formando em **Ciência da Computação** e povoando meu GitHub com repositórios de projetos interessantes que estão surgindo ao longo da minha trajetória. Espero que goste e possa lhe ser útil em algum momento...
 
-Você pode se conectar a mim nas seguintes redes sociais:
+Você pode se conectar a mim aqui na plataforma, que tal?
 
 ![GitHub followers](https://img.shields.io/github/followers/erickfigueiredo?style=social)
 
