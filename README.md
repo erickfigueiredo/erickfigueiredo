@@ -1,6 +1,6 @@
 # Oi, como está por aí? 👋
 
-Como você pôde ver no meu perfil, sou um Mineiro que ainda está se formando em **Ciência da Computação** e povoando meu GitHub com repositórios de projetos interessantes que estão surgindo ao longo da minha trajetória. Espero que goste e possa lhe ser útil em algum momento...
+Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** pelo IFMG, que ainda está se formando em **Ciência da Computação** pela UFV e povoando meu GitHub com repositórios de projetos interessantes que estão surgindo ao longo da minha trajetória. Espero que goste e possa lhe ser útil em algum momento...
 
 Você pode se conectar a mim aqui na plataforma, que tal?
 
