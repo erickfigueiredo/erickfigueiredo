@@ -6,7 +6,9 @@ Você pode se conectar a mim aqui na plataforma, que tal?
 
 ![GitHub followers](https://img.shields.io/github/followers/erickfigueiredo?style=social)
 
-![Erick's github stats](https://github-readme-stats.vercel.app/api?username=erickfigueiredo&show_icons=true&theme=radical)
+[![Ericks's github stats](https://github-readme-stats.vercel.app/api?username=erickfigueiredo&count_private=true&show_icons=true&theme=dark)](https://github.com/erickfigueiredo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickfigueiredo&layout=compact)](https://github.com/erickfigueiredo/github-readme-stats)
 
 Nunca se esqueça que tudo começa com um:
 
