@@ -6,6 +6,8 @@ Você pode se conectar a mim aqui na plataforma, que tal?
 
 ![GitHub followers](https://img.shields.io/github/followers/erickfigueiredo?style=social)
 
+![Erick's github stats](https://github-readme-stats.vercel.app/api?username=erickfigueiredo&show_icons=true&theme=radical)
+
 Nunca se esqueça que tudo começa com um:
 
 ~~~~
