@@ -4,12 +4,13 @@ Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickfigueiredo&count_private=true&show_icons=true&theme=material-palenight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfigueiredo&layout=compact&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfigueiredo&hide=jupyter%20notebook&layout=compact&theme=material-palenight"/>
 </div>
 
 ---
 
 ## Linguagens
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,6 +22,7 @@ Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** 
 ===
 
 ## Bancos de Dados
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,6 +31,7 @@ Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** 
 ===
 
 ## Frameworks
+
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -37,6 +40,7 @@ Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** 
 ===
 
 ## Sistemas Operacionais
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ===
@@ -50,6 +54,7 @@ echo 'Hello World';
 console.log("Hello World");
 System.out.println("Hello World");
 ~~~~
+
 Hahaha! Acho que deu pra entender...
 
 Forte abraço! 😉
