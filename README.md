@@ -1,6 +1,6 @@
 # 👨‍💻 Oi, como está por aí? 👋
 
-Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** pelo IFMG, que ainda está se formando em **Ciência da Computação** pela UFV e povoando meu GitHub com repositórios de projetos interessantes que estão surgindo ao longo da minha trajetória. Espero que goste e possa lhe ser útil em algum momento...
+Como você pôde ver no meu perfil, sou um Mineiro **Técnico em Informática** pelo IFMG, formado em **Ciência da Computação** pela UFV e povoando meu GitHub com repositórios de projetos interessantes que estão surgindo ao longo da minha trajetória. Espero que goste e possa lhe ser útil em algum momento...
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickfigueiredo&count_private=true&show_icons=true&theme=material-palenight"/>
